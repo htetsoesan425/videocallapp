@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "521507220192",
+    "firebase_url": "https://video-call-app-d8beb-default-rtdb.firebaseio.com",
+    "project_id": "video-call-app-d8beb",
+    "storage_bucket": "video-call-app-d8beb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521507220192:android:105d6dfd33db9efc6d7e85",
+        "android_client_info": {
+          "package_name": "com.example.videocallapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAdb3MPVeWdKFiz2yxtQv1ker7eJPhcO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
